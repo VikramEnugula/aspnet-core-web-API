@@ -214,9 +214,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Vikram\\source\\repos\\my-books\\my-books\\my-books.csproj",
-      "projectName": "my-books",
-      "projectPath": "C:\\Users\\Vikram\\source\\repos\\my-books\\my-books\\my-books.csproj",
+      "projectUniqueName": "C:\\Users\\Vikram\\source\\repos\\my-books\\my-books\\NZWalks.API.csproj",
+      "projectName": "NZWalks.API",
+      "projectPath": "C:\\Users\\Vikram\\source\\repos\\my-books\\my-books\\NZWalks.API.csproj",
       "packagesPath": "C:\\Users\\Vikram\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Vikram\\source\\repos\\my-books\\my-books\\obj\\",
       "projectStyle": "PackageReference",
